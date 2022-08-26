@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 public class Aise {
     //so here i added few lines
+    //New line is added
     static int[] binary (int num){
         
         int[] code=new int[4];
